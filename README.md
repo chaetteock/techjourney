@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Chen Kim's Blog
 
-You can use the [editor on GitHub](https://github.com/Chen-Kim/Chen-Kim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 0723 테슬라 메모
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 한 예능 프로그램에서 배우 유아인이 테슬라 모델 X를 타는 모습이 방영되면서, 관심이 더욱 높아졌다. 필자가 지난 7월, 테슬라코리아 청담스토어에 모델S를 시승해보러갔을 때, 요즘 ‘패밀리카’, ‘차박’ 등으로 관심을 끌고 있는 차종이 바로 모델 X라는 이야기를 들었다. 
 
-```markdown
-Syntax highlighted code block
+ 전기차를 구매하기 전 구매자들은 과연 어떠한 요소들을 고려할까? 가격? 연비? 주행거리? 디자인? 국고 보조금? 다양한 요소 중 소비자가 원하는 게 무엇인지 빠르게 캐치해내는 것이 중점이 되어야 할 것이다. 
 
-# Header 1
-## Header 2
-### Header 3
+1. 테슬라의 입지
 
-- Bulleted
-- List
+먼저, 2019년 상반기와 2020년 상반기 각각 수입차 판매량을 보면 국내 수입차 1위는 메르세데스 벤츠라는게 분명하다. 하지만 테슬라가 작년 422대를 판매하며 12개 수업차 중 꼴찌를 기록한 반면 올해 7079대 판매로 아우디를 이은 4위에 올라섰다. 2020년 상반기 테슬라 판매량 7,079대 중 6,830대(약 96.5%)가 모델 3 판매량이다.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chen-Kim/Chen-Kim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
